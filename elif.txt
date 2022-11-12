@@ -1,2 +1,2 @@
 elif cok calis
-hidir harikasin
+elif cok cok calis
