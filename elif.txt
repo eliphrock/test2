@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 elif cok calisgi
+=======
+elif cok calis
+elif cok cok calis
+elif elif
+>>>>>>> 6cce0152edb9fab3bb257d885468b287ab943a6a
